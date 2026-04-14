@@ -41,7 +41,7 @@ This project uses the Pima Indians Diabetes dataset, which contains clinical var
 
 ## Files
 
-- `clinical-risk-factor-analysis-diabetes.ipynb` — main notebook containing the full analysis
+- `clinical_risk_factor_analysis_diabetes.ipynb` — main notebook containing the full analysis
 - `diabetes.csv` — dataset used in the project
 
 ## Conclusion
